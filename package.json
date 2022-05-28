@@ -1,0 +1,14 @@
+{
+  "name": "covenant",
+  "version": "1.0.0",
+  "description": "his document covers instructions on assigning Covenant bribe amounts to individual voters and delegators that have participated in a bribed Snapshot vote. It requires that verifiers have already resolved the voting proposal id, bribed choice and total net payout to users (after protocol fee). This bribe distribution method supports single choice, basic and weighted Snapshot voting types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baldwin Cepeda",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}
